@@ -38,4 +38,4 @@ gnome.yelp ('simple-scan',
                      'figures/preferences.png',
                      'figures/scan_toolbar.png' ],
             languages: languages,
-            symlink_media: true)
+            symlink_media: false)
